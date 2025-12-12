@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "나의리뷰픽"
+title                    : "스타일픽데일리"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "myreviewpick"
+name                     : "stylepickdaily"
 description              : " 베스트 상품 추천 및 리뷰. 가전, 생활용품, 패션 등 다양한 카테고리의 가성비 좋은 상품을 소개합니다."
 url                      : "https://shopping42.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "나의리뷰픽"
+  name             : "스타일픽데일리리"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "상품을 제대로 리뷰해주는 쇼핑블로그!"
   location         : "Somewhere"
