@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "stylepickdaily"
 description              : " 베스트 상품 추천 및 리뷰. 가전, 생활용품, 패션 등 다양한 카테고리의 가성비 좋은 상품을 소개합니다."
-url                      : "https://shopping42.github.io"
+url                      : "https://stylepickdaily.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
